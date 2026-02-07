@@ -1,5 +1,6 @@
 # Programming_Fundamentals-PF-_Final_Project
 🎮 GameMania 🎮
+
 📌 Project Overview
 
 GameMania is a console-based Java application developed as the final project for the First Semester Programming course at COMSATS University Islamabad (CUI).
@@ -11,21 +12,21 @@ GameMania offers the following games:
 
 • Tic Tac Toe
 
-  Player vs Player mode
-
-  Player vs Computer mode
+    Player vs Player mode
+  
+    Player vs Computer mode
 
 • Rock Paper Scissors
 
 • Hangman
 
-  Random word selection from a file
-
-  ASCII-based visual representation
+    Random word selection from a file
+  
+    ASCII-based visual representation
 
 • Dice Roll Simulator
 
-  Supports rolling multiple dice with visual output
+    Supports rolling multiple dice with visual output
 
 ⚙️ Features :
 
