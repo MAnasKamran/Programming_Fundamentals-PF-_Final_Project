@@ -12,17 +12,17 @@ GameMania offers the following games:
 
 • Tic Tac Toe
 
-    Player vs Player mode
+   Player vs Player mode
   
-    Player vs Computer mode
+   Player vs Computer mode
 
 • Rock Paper Scissors
 
 • Hangman
 
-    Random word selection from a file
+   Random word selection from a file
   
-    ASCII-based visual representation
+   ASCII-based visual representation
 
 • Dice Roll Simulator
 
