@@ -88,3 +88,7 @@ java GameMania
 📄 Academic Context:
 
 This project was developed as part of the First Semester Programming course at COMSATS University Islamabad(CUI), with the objective of applying theoretical programming concepts to a practical, working application.
+
+🚀 Installation:
+Clone the repository:
+      https://github.com/MAnasKamran/Programming_Fundamentals-PF-_Final_Project.git
