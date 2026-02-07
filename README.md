@@ -78,7 +78,10 @@ Make sure Java is installed on your system
 Place the words.txt file in the same directory as the program (required for Hangman)
 
 Compile and run the program:
+
+
 javac GameMania.java
+
 java GameMania
 
 📄 Academic Context:
