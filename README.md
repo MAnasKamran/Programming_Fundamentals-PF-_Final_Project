@@ -10,23 +10,23 @@ The project combines multiple mini-games into a single menu-driven program, demo
 
 GameMania offers the following games:
 
-• Tic Tac Toe
+1)Tic Tac Toe:
 
-   Player vs Player mode
+•Player vs Player mode
   
-   Player vs Computer mode
+•Player vs Computer mode
 
-• Rock Paper Scissors
+2)Rock Paper Scissors:
 
-• Hangman
+3)Hangman:
 
-   Random word selection from a file
+•Random word selection from a file
   
-   ASCII-based visual representation
+•ASCII-based visual representation
 
-• Dice Roll Simulator
+4)Dice Roll Simulator:
 
-    Supports rolling multiple dice with visual output
+•Supports rolling multiple dice with visual output
 
 ⚙️ Features :
 
